@@ -34,8 +34,7 @@ A skill-based networking platform that connects users based on skills and collab
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/kaveesha-yomal/
-- GitHub: https://github.com/kaveeshayomal
+- LinkedIn: https://www.linkedin.com/in/kaveesha-yomal-9768653a6/
 
 
 <!--
