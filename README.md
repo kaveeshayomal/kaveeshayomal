@@ -69,7 +69,7 @@ I enjoy working at the intersection of <b>people, processes, and technology</b>,
 ## 📫 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kaveesha-yomal-9768653a6/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaveeshayomal55@gmail.com">
